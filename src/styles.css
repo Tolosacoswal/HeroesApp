@@ -1,0 +1,30 @@
+
+b{
+    color: rgb(19, 16, 4);
+}
+b.search{
+    color:rgb(12, 15, 13);
+}
+h5{
+    color: rgb(181, 211, 218);
+}
+h1{
+    color: rgb(181, 211, 218);
+}
+div{
+    color: rgb(181, 211, 218);
+}
+
+
+body {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../assets/heroes/marvel-dc.jpg");
+    background: url(../assets/heroes/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    position:sticky;
+   
+    
+    
+    
+}
